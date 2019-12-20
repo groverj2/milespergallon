@@ -14,6 +14,9 @@
 
 The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5 continuous attributes
 
+https://archive.ics.uci.edu/ml/datasets/Auto+MPG
+
+
 #### The steps I have followed are more or less commonly followed steps for all regression machine learning problems.
 #### However, I have displayed and explained 2 other key aspects of approaching and solving a regression machine learning problem
 1. using cross_val_score to choose the best ML algo
